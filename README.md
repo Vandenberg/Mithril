@@ -1,2 +1,0 @@
-# Mithril
-Pathfinder Calculator
